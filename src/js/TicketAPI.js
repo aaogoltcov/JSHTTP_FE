@@ -5,7 +5,7 @@ export default class TicketAPI {
   constructor() {
     this.form = document.querySelector('[data-widget=ticket_form]');
     this.list = document.querySelector('[data-widget=ticket_list]');
-    this.url = 'http://jshttpbe.herokuapp.com';
+    this.url = 'https://jshttpbe.herokuapp.com';
     this.xhr = new XMLHttpRequest();
   }
 

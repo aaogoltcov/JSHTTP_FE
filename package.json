@@ -9,7 +9,7 @@
     "uuid": "^8.3.2",
     "yarn": "^1.22.10"
   },
-  "name": "JSHTTP",
+  "name": "JSHTTP_FE",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/aaogoltcov/JSHTTP_FE.git",
